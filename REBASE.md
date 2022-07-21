@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Eddie: The protagonist and main character around whom the story centers; at the start of the story, he is killed on his 83rd birthday.
 
 Marguerite: Eddie's wife whom he met at Ruby Pier and married after returning from World War II.
