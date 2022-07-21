@@ -16,4 +16,4 @@ Tala: Tala is a young Filipina girl Eddie sees in a burning hut.
 
 Nicky: Nicky is a young man who visited Ruby Pier, and caused the effects that led to Eddie's death. He claims to be Ruby's great-grandson.
 
-Lily : A nex intern who is learning and exploring within a new field.gi 
+Lily : A new intern who is learning and exploring within a new field.
