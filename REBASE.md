@@ -20,4 +20,8 @@ Nicky: Nicky is a young man who visited Ruby Pier, and caused the effects that l
 Lily : A nex intern who is learning and exploring within a new field.
 =======
 Hello, I am rebase file.
+<<<<<<< HEAD
 >>>>>>> 6012aaa (Update REBASE.md)
+=======
+Hi! I'm Lily.
+>>>>>>> 220fb26 (Update REBASE.md)
