@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Eddie: The protagonist and main character around whom the story centers; at the start of the story, he is killed on his 83rd birthday.
 
 Marguerite: Eddie's wife whom he met at Ruby Pier and married after returning from World War II.
@@ -17,11 +16,4 @@ Tala: Tala is a young Filipina girl Eddie sees in a burning hut.
 
 Nicky: Nicky is a young man who visited Ruby Pier, and caused the effects that led to Eddie's death. He claims to be Ruby's great-grandson.
 
-Lily : A nex intern who is learning and exploring within a new field.
-=======
-Hello, I am rebase file.
-<<<<<<< HEAD
->>>>>>> 6012aaa (Update REBASE.md)
-=======
-Hi! I'm Lily.
->>>>>>> 220fb26 (Update REBASE.md)
+Lily : A nex intern who is learning and exploring within a new field.gi 
